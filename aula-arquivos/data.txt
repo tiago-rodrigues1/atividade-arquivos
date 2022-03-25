@@ -1,0 +1,3 @@
+{"titulo":"Homem-Aranha: Sem Volta para Casa","descricao":"Com a identidade do Homem-Aranha revelada, Peter pede ajuda ao Doutor Strange. Quando um feitiço corre mal, inimigos perigosos de outros mundos começam a aparecer, forçando Peter a descobrir o que realmente significa ser o Homem-Aranha.","imdbRating":8.5,"minutosDuracao":148}
+{"titulo":"Batman","descricao":"Batman frio e calculista e rico","imdbRating":8.4,"minutosDuracao":176}
+{"titulo":"Batman","descricao":"","imdbRating":8.4,"minutosDuracao":176}
